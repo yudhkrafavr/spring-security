@@ -1,2 +1,2 @@
 # spring-security
-Project to build registration, account activation, login and protect the endpoints based on user role
+This project involves creating a user management system using Java Spring Boot and Spring Security. The system includes features like user registration, account activation via email, secure login, and role-based access control for protecting endpoints based on user roles. The goal is to establish a secure and efficient web application with a focus on simplicity and adherence to best security practices.
